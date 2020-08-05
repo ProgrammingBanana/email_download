@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "email-extraction-285419",
+  "private_key_id": "c96b8c8c727defc1b9252bb4e00727028620447f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjgwkOlNRvHqXB\nj1bKqYJoqRFXecXoP/GTZm+twHnkc3blxtZ75vpJOcBzL0ICJGAdzqM6qQlUcOdE\nWbFO1fEOpzPBb+KDhpHBWnDLUFYi5QXL3ltnDw/1aOhkWlm0LKLqvRj/FPRW7plQ\nD+POzt4RBm57UvLa3rkXF1HnOWuzCHPmNugszEkcjcUdKAt6srVMZhkIHLGbCLyb\nZ5dhxr0TEdoXkXDSsmV3sDF+Q2nOGGyQaS+tgpfr6OkGbjAehCOxz+ZreqW17aP1\npAadTa9dEPh/QDR+oGYxZixJ/vvR49Yu1YPgkDv8SP3ZK8Tzud6nAiqC3GJEEffe\nmFZmT+JFAgMBAAECggEABrUNKOL43KTH6LatLZuFNsjYiXO+LVG98WVD9hig+fvw\ncvzjbl2Ec/EHVtimEXJD63pfzrcp3qrXGpQABEMOO1XGaBXAamBm1CSH2OqaUNGK\nfp85zRuWfMWWElKlPIiorehwv/Znb1eok+xqqs+89WizNvYJUawJbgrtNSFOJvCS\n3x8nQvTgKHEMLvKrc5qUv9/4dDVZJiiv3HJbu7ovfqI6uquHf9ZoCFgBz73XQIkO\n5LhrIfoBiR7iAf3smX8n0pqiB8WpitFMOkaMkRw+O5HIh7bHvoTEJDFAxa5aooZf\nu5DUA/dbk60amUak6o1k3uNwjZhS3NTKu1d6dzmfMQKBgQD2pwf3f04Of6ML1xJH\nw7zFEJey1D+htchSDaTcp6kalK08eoU2uPQ+vx25yMxOZQGv6Sog8BFpBIAGtTN5\n21QfQjPmGn3YMRJki+tYbJWtnGO0KgJhlepynyrmeY2GGYT8ao+JL7mqGOu1e5hQ\n8PJyLuTuGCujVSpu8/lX6ToG0QKBgQDsIk5kIBkVZM8rWzz27DAi2rAoJaVjFQdD\nGz2yu4ozHmaOGi5sKKlVOnA9dufD/QFkUQlCmvlQUjniiy9ODRJn0gHU0y/W9lSO\nVv3EQ3LOxrbnc4J20L/B3gkEFMYsaKjtiggiqqZKSi6eE1JvzM+EMX668CfhJxue\n8BeJ9iUpNQKBgFGRUVAm2IBw81GSEWiMMZwV7aTlDhoDTLjd7DxQcdrpehS7C9zZ\n82PgvgrXfcEbJCCxgg4cdhV9uHz/ZYOR5dLkiNc6wY1CRSvdHbpDRoiAZHSLQ/hT\npJG9U2menw/O1qzG7KrYjpTS4vhEZE24MOVT3r9iXOQJ4RuKMVZCOb9RAoGAaMYE\nEGsplhOH1M4D6+/6n8x28ylZC/CtqznwE1khRfNMP+sgA/+6usVWPf9/cLfXIULP\noA0RaHFDm+B0Gea07voAtAUMqg3ckNfKe4YN7+++Ak5/aebP3t59E6GAGP5LTjK7\nz132sOnfa2ZZYp/2x8oKWDntB/sJR2lymFVuQa0CgYEAj/yjxtlG+lVa/ydnorwh\n+Mb1Kt7BXE5c7u+5e1eMa9O67y3crmDhIwMeztZST2+nfF2lWpgV2AWWRp75L9yN\n8E4LS9OkPcPbMV5bhznv7WtZlZma4mN/MdLXZ5c4qmskel+iD5IpznN76drhL/Fv\nNa8Sil7riekzd0wACOV5NsE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "programming-banana@email-extraction-285419.iam.gserviceaccount.com",
+  "client_id": "109971788756755713952",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/programming-banana%40email-extraction-285419.iam.gserviceaccount.com"
+}

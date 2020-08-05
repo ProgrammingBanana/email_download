@@ -1,0 +1,6 @@
+API_key
+credentials.json
+Email Extraction.json
+token.pickle
+
+.pytest_cache
