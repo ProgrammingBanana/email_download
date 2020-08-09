@@ -115,10 +115,3 @@ class Service:
 
             problems.write(str(non_printable))
 
-        
-
-    
-
-
-
-

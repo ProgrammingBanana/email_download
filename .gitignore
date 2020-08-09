@@ -1,6 +1,6 @@
 API_key
 credentials.json
-email-extraction.json
+email_extraction_credentials.json
 token.pickle
 
 .pytest_cache
